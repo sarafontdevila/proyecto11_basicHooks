@@ -5,3 +5,8 @@
   list-style:none;
   text-decoration:none;
 }
+
+#root {
+  background-color: rgba(203, 199, 199, 0.729);
+  height: 100svh;
+}
